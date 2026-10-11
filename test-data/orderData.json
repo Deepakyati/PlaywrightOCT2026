@@ -1,0 +1,23 @@
+[
+  {
+    "testId": "TC01_Cucumber",
+    "searchQuery": "Cucumber",
+    "productName": "Cucumber",
+    "promoCode": "rahulshettyacademy",
+    "country": "India"
+  },
+  {
+    "testId": "TC02_Carrot",
+    "searchQuery": "Carrot",
+    "productName": "Carrot",
+    "promoCode": "rahulshettyacademy",
+    "country": "India"
+  },
+  {
+    "testId": "TC03_Tomato",
+    "searchQuery": "Tomato",
+    "productName": "Tomato",
+    "promoCode": "rahulshettyacademy",
+    "country": "India"
+  }
+]
