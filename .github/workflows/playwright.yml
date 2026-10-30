@@ -35,7 +35,7 @@ jobs:
 
       # Step 5: Execute your test suite
       - name: Run Playwright tests
-        run: npx playwright test tests/greenkart.spec.ts --project=chromium
+        run: npx playwright test --project=chromium
 
       # Step 6: Save the HTML report as an artifact (even if tests fail)
       - name: Upload HTML Test Report
